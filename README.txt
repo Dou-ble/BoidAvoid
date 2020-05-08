@@ -8,4 +8,4 @@ The goal of this game is to avoid getting hit by the boids. You can shoot the bo
 
 Move with WASD. Left click to shoot the gun.
 
-The Boids algorithm is modified so that the Boids think that the player is the center of the mass. The Boids will try moving towards the player, as well as keep a distance from each other and match velocity with other Boids. This leads to some unpredictable movement.
+The Boids algorithm is modified so that the Boids think that the player is the center of the mass. The Boids will try moving towards the player, as well as keep a distance from each other and match velocity with other Boids. This leads to some unpredictable movement. The algorithm is implemented using Blueprints in FlyingGameMode.
